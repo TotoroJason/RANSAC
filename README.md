@@ -146,5 +146,3 @@ http://www.cnblogs.com/xrwang/archive/2011/03/09/ransac-1.html
 #### 最小二乘法
 https://www.zhihu.com/question/37031188
 
-#### 点积
-https://www.cnblogs.com/gxcdream/p/7597865.html
